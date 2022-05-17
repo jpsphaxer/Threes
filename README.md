@@ -11,7 +11,8 @@ In this project the goal was to recreate a game that has similiar gameplay and c
 
 ## Screenshots 
 
-
-<img src="screenshots/threes%20copy.png" width=40% height=40%>
-<img src="screenshots/score.png" width=40% height=40%>
-<img src="screenshots/drawingpad.png" width=40% height=40%>
+<p float="left">
+<img src="screenshots/threes%20copy.png" width=30% height=30%>
+<img src="screenshots/score.png" width=30% height=30%>
+<img src="screenshots/drawingpad.png" width=30% height=30%>
+</p>
